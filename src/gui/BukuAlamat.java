@@ -190,7 +190,7 @@ public class BukuAlamat extends javax.swing.JFrame {
                 .addGroup(jPanel1Layout.createSequentialGroup()
                     .addGap(57, 57, 57)
                     .addComponent(jLabel2)
-                    .addContainerGap(254, Short.MAX_VALUE)))
+                    .addContainerGap(245, Short.MAX_VALUE)))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -370,8 +370,6 @@ public class BukuAlamat extends javax.swing.JFrame {
                 .addComponent(jLabel8)
                 .addGap(495, 495, 495))
         );
-
-        jPanel1.getAccessibleContext().setAccessibleName("INPUT BUKU ALAMAT");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
